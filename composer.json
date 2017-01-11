@@ -1,0 +1,7 @@
+{
+    "name": "matt/test-deployment-app",
+    "type": "project",
+    "require": {
+        "vlucas/phpdotenv": "^2.4"
+    }
+}
